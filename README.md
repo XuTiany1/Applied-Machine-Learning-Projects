@@ -2,7 +2,7 @@
 This repository stores all of my four projects I have developed throughout COMP 551(Applied Machine Learning)
 
 
-## Course Outline (What is this course about?)
+## Course Outline (What is this course about? / What did I learn?)
 This course covers a selected set of topics in machine learning and data mining, with an emphasis on good methods and practices for deployment of real systems. The majority of sections are related to commonly used supervised learning techniques, and to a lesser degree unsupervised methods. This includes fundamentals of algorithms on linear and logistic regression, decision trees, support vector machines, clustering, neural networks, as well as key techniques for feature selection and dimensionality reduction, error estimation and empirical validation.
 
 
@@ -20,7 +20,7 @@ In this miniproject I implemented naive Bayes from scratch and BERT-based model 
 Then, I compared these algorithms on Emotion dataset. 
 The goal is to gain experience implementing machine learning algorithm from scratch and running the modern deep learning libraries, and getting hands-on experience comparing their performances on the real-world textual dataset.
 
-
 ## Project #4
-Work in progress...
+Reinforcement Learning (RL) is a type of machine learning where an agent learns to make decisions by interacting with an environment to achieve a goal. In our study, we implemented the paper "Playing Atari with Deep Reinforcement Learning," which pioneered the use of Deep Q-Networks (DQN) to play games. We trained a DQN on the Atari Breakout environment, following as closely as possible the architecture outlined in the original paper while focusing on tuning specific hyperparameters. Our objective was to evaluate the performance impact of these adjustments by benchmarking our modified DQN against the baseline model. This project aims to investigate how hyperparameter tuning can optimize reinforcement learning models for targeted tasks.
+
 
